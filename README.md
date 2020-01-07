@@ -8,7 +8,7 @@
 
 _This webpage is pretty bland but cool. It contains big and small sentences. It also has headings and stuff. Have fun reading through it._
 
-##Setup/Installation Requirements
+## Setup/Installation Requirements
 
 * _You need electricity_
 * _You need a monitor_
